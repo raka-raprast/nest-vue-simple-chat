@@ -1,11 +1,11 @@
 # client
 
-```cd client```
-```npm i```
-```npm run dev```
+```cd client```<br />
+```npm i```<br />
+```npm run dev```<br />
 
 # server
 
-```cd server```
-```npm i```
-```npm run start```
+```cd server```<br />
+```npm i```<br />
+```npm run start```<br />
